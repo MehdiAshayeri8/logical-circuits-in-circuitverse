@@ -1,0 +1,15 @@
+Push button bulb: https://circuitverse.org/users/271279/projects/push-button-bulb
+
+detector of odd number and seven segment: https://circuitverse.org/users/271279/projects/odd-detector-and-seven-segment
+
+prime numbers: https://circuitverse.org/users/271279/projects/prime-number-42deb4e3-7511-4c9a-911b-713e05ccbc0f
+
+Full adder: https://circuitverse.org/users/271279/projects/full-adder-cb8a7405-9e39-4b75-938e-e33400e4968c
+
+being multiple of 3: https://circuitverse.org/users/271279/projects/being-multiple-of-3
+
+detector of "011": https://circuitverse.org/users/271279/projects/detector-of-011
+
+full subtractor: https://circuitverse.org/users/271279/projects/full-subtractor-5d95429f-6183-4c1c-8188-3b741a8787d5
+
+fuel selector:https://circuitverse.org/users/271279/projects/fuel-selector
